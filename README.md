@@ -11,7 +11,7 @@
     - array math
     - another useful tools
 3. 그 외 딥러닝에 실질적인 도움을 주는 package
-    - os
+    - os, glob
     - scipy
     - matplotlib
 4. Simple Quesion
